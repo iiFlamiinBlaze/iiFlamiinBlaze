@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
+I am iiFlamiinBlaze, also known as BlazeTheDev. I am a 17 year old developer and I am proficient in PHP, Go and JavaScript. 
 
-<!--
-**iiFlamiinBlaze/iiFlamiinBlaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[iiFlamiinBlaze's Discord Invite](https://discord.gg/znEsFsG)
 
-Here are some ideas to get you started:
+## My Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=iiFlamiinBlaze&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiFlamiinBlaze&langs_count=4&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iiFlamiinBlaze&repo=BlazinFly)](https://github.com/iiFlamiinBlaze/BlazinFly)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iiFlamiinBlaze&repo=BlazinBroadcasts)](https://github.com/iiFlamiinBlaze/BlazinBroadcasts)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shelly7w7&repo=ShellyEssentials-)](https://github.com/Shelly7w7/ShellyEssentials-)
+
+## MagmaNetwork
+I am the Lead Developer for [MagmaNetwork](https://github.com/MagmaNetworkPE/). We are a Minecraft Bedrock Edition server with multiple different gamemodes including Prison, SkyBlock, Duels and Creative.
+
+<a href="https://minecraftpocket-servers.com/server/51785/"><img src="https://minecraftpocket-servers.com/server/51785/banners/regular-banner-4.png" border="0"></a>

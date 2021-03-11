@@ -1,7 +1,8 @@
 # Hi there 👋
 I am iiFlamiinBlaze, also known as BlazeTheDev. I am a 17 year old developer and I am proficient in PHP, Go and JavaScript. 
 
-[iiFlamiinBlaze's Discord Invite](https://discord.gg/znEsFsG)
+[![iiFlamiinBlaze Discord Guild Invite](http://invidget.switchblade.xyz/znEsFsG?theme=light)](https://discord.gg/znEsFsG) [![MagmaNetwork's Discord Guild Invite](http://invidget.switchblade.xyz/GmRhmM4?theme=light)](https://discord.gg/GmRhmM4)
+
 
 ## My Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=iiFlamiinBlaze&show_icons=true&count_private=true)

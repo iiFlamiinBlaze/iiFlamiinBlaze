@@ -1,5 +1,5 @@
 # Hello 👋
-I am iiFlamiinBlaze, also known as BlazeTheDev. I am an 18 year old developer and I am proficient in PHP, Go and JavaScript. 
+I am iiFlamiinBlaze, also known as BlazeTheDev. I am a 19 year old developer and I am proficient in PHP, Go and JavaScript. 
 
 [![iiFlamiinBlaze Discord Guild Invite](http://invidget.switchblade.xyz/znEsFsG?theme=light)](https://discord.gg/znEsFsG)
 

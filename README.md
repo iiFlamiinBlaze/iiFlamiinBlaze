@@ -1,5 +1,5 @@
 # Hello 👋
-I am iiFlamiinBlaze, also known as BlazeTheDev. I am a 19 year old developer and I am proficient in PHP, Go and JavaScript. 
+I am iiFlamiinBlaze, also known as BlazeTheDev. I am a 20 year old developer and I am proficient in PHP, Go, and JavaScript. 
 
 [![iiFlamiinBlaze Discord Guild Invite](http://invidget.switchblade.xyz/znEsFsG?theme=light)](https://discord.gg/znEsFsG)
 
@@ -16,8 +16,8 @@ I am iiFlamiinBlaze, also known as BlazeTheDev. I am a 19 year old developer and
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shelly7w7&repo=ShellyEssentials-)](https://github.com/Shelly7w7/ShellyEssentials-)
 
 ## MagmaNetwork
-I am the CEO of [MagmaNetwork](https://github.com/MagmaNetworkPE/). We are a Minecraft Bedrock Edition server with multiple different gamemodes including Prison, SkyBlock, Duels and Creative.
+I am the CEO of [MagmaNetwork](https://github.com/MagmaNetworkPE/). We are a Minecraft Bedrock Edition server with multiple different gamemodes including Prison, SkyBlock, Duels, and Creative.
 
-<a href="https://minecraftpocket-servers.com/server/51785/"><img src="https://minecraftpocket-servers.com/server/51785/banners/regular-banner-4.png" border="0"></a>
+<a href="https://minecraftpocket-servers.com/server/125863/"><img src="https://minecraftpocket-servers.com/server/125863/banners/regular-banner-4.png" border="0"></a>
 
 [![MagmaNetwork's Discord Guild Invite](http://invidget.switchblade.xyz/GmRhmM4?theme=light)](https://discord.gg/GmRhmM4)
